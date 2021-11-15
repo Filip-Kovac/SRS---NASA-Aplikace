@@ -12,50 +12,49 @@ Aplikace bude fungovat jako zprostředkovatel ověřených informace týkající
 Program bude vhodný pro všechny, kteří se zajímají o vesmírná tělesa v blízkosti Země, a chtěli by se o tom dozvědět více.
 
 ##### 1.3 Kontakty #####
-Kontaktovat mě můžete na email kovac.filip.2018@skola.ssps.cz nebo discord FilipK#2208
+Kontaktovat mě můžete na email kovac.filip.2018@skola.ssps.cz.
 
 
 
 ### 2. Celkový popis ###
 
 ##### 2.1 Funkce #####
-Do programu bude možno přidat či odebrat úkol, vložit požadovaný datum splnění, stav (otevřený, hotový).
-Možnost vytvoření/smazání skupiny, do kterých půjde jednotlivé úkoly vložit. Seznam se bude ukáldat do txt souboru, ze kterého to bude možnost opět načíst.
+Mobilní aplikace bude zobrazovat informace ohledně nebližších tělesech Země. Informace se budou po určitém čase aktualizovat, zda-li nebude datové připojení dostupné použijí se poslední aktualizovaná data a datum aktualizace.
 
 ##### 2.2 Provozní prostředí #####
-Program bude fungovat jen na Windows.
+Aplikace bude fungovat jen na Android.
 
 ##### 2.3 Uživatelské prostředí #####
-Program bude fungovoat všude, kde bude windows.
+Aplikace bude fungovat na jakémkoliv mobilu s Androidem.
 
 ##### 2.4 Předpoklady a závislosti #####
-Program se nebude mouset aktualizovat.
+Pro správný chod aplikace musí být mobil připojen k internetu, jinak se budou zobrazovat zastaralé informace.
 
 
 
 ### 3. Požadavky na rozhraní ###
 
 ##### 3.1 Uživatelská rozhraní #####
-Program bude mít vlastní rozhraní, které bude jednoduché, aby s tim mohl pracovat každý.
+Uživatelské rozhraní aplikace bude jednoduché, aby s tím mohl pracovat každý.
 
 ##### 3.2 Hardwarová rozhraní #####
-Program bude komunikovat jen s klávesnicí a myší.
+Aplikace nepotřebuje žádné hardwarové rozhraní.
 
 ##### 3.3 Softwarová rozhraní #####
-Program bude fungovat jen na Windows.
+Aplikace bude fungovat jen na Androidu.
 
 
 
 ### 4. Nefunkční požadavky ###
 
 ##### 4.1 Výkonnost #####
-Pro běh aplikace bude potřeba PC.
+Pro běh aplikace bude potřeba mobil s Androidem.
 
 ##### 4.2 Bezpečnost #####
-Program nebude chtít po uživatelích žádné informace.
+Aplikace nebude chtít po uživatelích žádné informace.
 
 ##### 4.3 Spolehlivost #####
-Program bude stabilní a nenáročny na hardware.
+Aplikace bude stabilní a nenáročny na hardware.
 
 ##### 4.4 Lokalizace #####
 Rozhraní bude v českém jazyce
