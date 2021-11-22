@@ -54,7 +54,7 @@ Pro běh aplikace bude potřeba mobil s Androidem.
 Aplikace nebude chtít po uživatelích žádné informace.
 
 ##### 4.3 Spolehlivost #####
-Aplikace bude stabilní a nenáročny na hardware.
+Aplikace bude stabilní a nenáročná na hardware.
 
 ##### 4.4 Lokalizace #####
 Rozhraní bude v českém jazyce
